@@ -1,14 +1,9 @@
-# My Personal website with Tailwind
-https://rizkimuharrampasinringi.github.io/personal-website/
-
-website ini adalah web personal saya dengan menggunakan teknik Tailwind
-
-teknologi yg di gunakan
-
+This is my personal website, built using Tailwind. 
+Technologies used: 
 * Tailwind
-* Html
-* Css
-* Js
-* Scss
+* HTML
+* CSS
+* JS
+* SCSS
 * AOS
 * GSAP
